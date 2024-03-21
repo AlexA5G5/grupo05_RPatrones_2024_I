@@ -5,7 +5,7 @@
 
 ### Integrante 1: Alexander Marlon Paredes Arellano
 
-<img src="https://github.com/AlexA5G5/grupo05_RPatrones_2024_I/blob/32963c50b57826c5031023522d78257734bd9854/foto%20Cuti.png" height="300">
+<img src="Fotos/Foto Alex.jpeg" height="300">
 
 Soy estudiante de la carrera de Ingeniería Biomédica del 9no ciclo. Mis áreas de interés son la Ingeniería de tejidos y la Ingeniería Clínica. Me interesa aprender sobre el uso de la IA para poder automatizar procesos en el caso de descelularización y cultivo de células. Considero que el uso de IA será un apoyo para los futuros proyectos en los que participe.
 
