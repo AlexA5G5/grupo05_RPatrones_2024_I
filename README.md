@@ -1,6 +1,8 @@
 # grupo05_RPatrones_2024_I
 ## Grupo 05 - Reconocimiento de Patrones
--Descripción del curso y lo que esperan aprender. 
+
+El curso introduce conocimientos sobre la implementación de sistemas de computadora para el análisis de información y toma de decisiones. Se abordan conceptos sobre características en señales e imágenes, el espacio de características y reglas de decisión. Se analizan métodos de decisión estadísticos y de inteligencia artificial: Decisiones bayesianas, análisis de discriminación lineal, análisis de componentes principales, redes neuronales, máquinas de vectores de soporte, entre otros.
+
 ## Presentación del equipo
 
 ### Integrante 1: Alexander Marlon Paredes Arellano
