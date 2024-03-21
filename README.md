@@ -14,6 +14,8 @@ Soy estudiante de la carrera de Ingeniería Biomédica del 9no ciclo. Mis áreas
 ### Integrante 2: Angel Eduardo Dianderas Jorge
 Correo: angel.dianderas@upch.pe
 
+<img src="Fotos/Foto Alex.jpeg" height="300" width="250">
+
 Soy un estudiante de Ingeniería Biomédica. Me gusta mucho los temas relacionados con machine learning y biomecánica para el rapido tratamiento de lesiones en pacientes y mejorar su calidad de vida.
 
 ### Integrante 3: Eduardo André Cuti Riveros
