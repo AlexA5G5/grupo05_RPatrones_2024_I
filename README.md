@@ -19,7 +19,7 @@ Soy un estudiante de Ingeniería Biomédica. Me gusta mucho los temas relacionad
 ### Integrante 3: Eduardo André Cuti Riveros
 Correo: eduardo.cuti@upch.pe
 
-<img src="Fotos/foto Cuti.png" height="300">
+<img src="Fotos/foto Cuti.png" height="300" width="250">
 
 Soy un estudiante de ingeniería biomédica. Quisiera  especializarme en la carrera de robótica y rehabilitación ; sin embargo, considero que la programación(machine learning,deep learning,etc ) es muy importante para  desarrollar todo proyecto de esta especialidad; por ende, tengo interes en aprender de este curso llamado  reconocimiento de patrones.
 ## Proyecto de curso
