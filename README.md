@@ -4,7 +4,7 @@
 ## Presentación del equipo
 
 ### Integrante 1: Alexander Marlon Paredes Arellano
-alexander.paredes@upch.pe
+Correo: alexander.paredes@upch.pe
 
 <img src="Fotos/Foto Alex.jpeg" height="300" weight="50">
 
@@ -15,7 +15,8 @@ Soy estudiante de la carrera de Ingeniería Biomédica del 9no ciclo. Mis áreas
 
 Soy un estudiante de Ingeniería Biomédica. Me gusta mucho los temas relacionados con machine learning y biomecánica para el rapido tratamiento de lesiones en pacientes y mejorar su calidad de vida.
 
-### Integrante 3: Eduardo André Cuti Riveros 
+### Integrante 3: Eduardo André Cuti Riveros
+Correo: eduardo.cuti@upch.pe
 
 <img src="Fotos/foto Cuti.png" height="300">
 
