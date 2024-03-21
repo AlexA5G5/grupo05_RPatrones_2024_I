@@ -6,7 +6,7 @@
 ### Integrante 1: Alexander Marlon Paredes Arellano
 alexander.paredes@upch.pe
 
-<img src="Fotos/Foto Alex.jpeg" height="300" weight="200">
+<img src="Fotos/Foto Alex.jpeg" height="300" weight="100">
 
 Soy estudiante de la carrera de Ingeniería Biomédica del 9no ciclo. Mis áreas de interés son la Ingeniería de tejidos y la Ingeniería Clínica. Me interesa aprender sobre el uso de la IA para poder automatizar procesos en el caso de descelularización y cultivo de células. Considero que el uso de IA será un apoyo para los futuros proyectos en los que participe.
 
