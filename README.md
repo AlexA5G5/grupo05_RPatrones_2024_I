@@ -11,7 +11,7 @@
 Soy un estudiante de Ingeniería Biomédica. Me gusta mucho los temas relacionados con machine learning y biomecánica para el rapido tratamiento de lesiones en pacientes y mejorar su calidad de vida.
 
 ### Integrante 3: Eduardo André Cuti Riveros 
-<img src="https://github.com/AlexA5G5/grupo05_RPatrones_2024_I/blob/32963c50b57826c5031023522d78257734bd9854/foto%20Cuti.png">
+<img src="https://github.com/AlexA5G5/grupo05_RPatrones_2024_I/blob/32963c50b57826c5031023522d78257734bd9854/foto%20Cuti.png" height="300">
 
 Soy un estudiante de ingeniería biomédica. Quisiera  especializarme en la carrera de robótica y rehabilitación ; sin embargo, considero que la programación(machine learning,deep learning,etc ) es muy importante para  desarrollar todo proyecto de esta especialidad; por ende, tengo interes en aprender de este curso llamado  reconocimiento de patrones.
 ## Proyecto de curso
