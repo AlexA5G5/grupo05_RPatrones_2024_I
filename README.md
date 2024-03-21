@@ -3,7 +3,7 @@
 -Descripción del curso y lo que esperan aprender. 
 ## Presentación del equipo
 -Descripción con foto de cada integrante
-### Integrante 2: Alexander Marlon Paredes Arellano
+### Integrante 1: Alexander Marlon Paredes Arellano
 
 
 ### Integrante 2: Angel Eduardo Dianderas Jorge
