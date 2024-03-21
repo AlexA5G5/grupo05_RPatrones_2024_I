@@ -4,6 +4,7 @@
 ## Presentación del equipo
 
 ### Integrante 1: Alexander Marlon Paredes Arellano
+alexander.paredes@upch.pe
 
 <img src="Fotos/Foto Alex.jpeg" height="300">
 
