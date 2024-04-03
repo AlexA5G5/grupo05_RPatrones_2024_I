@@ -48,11 +48,17 @@ Se tomo 3 posibles objetivos en los cuales nos  podríamos enfocariamos . Listam
 
 1- Desarrollar modelos que puedan predecir la probabilidad de que un paciente requiera cuidados intensivos después de la cirugía
   Edad
+  
   Índice de comorbilidad de Charlson
+  
   Antecedentes quirúrgicos abdominales
+  
   Diagnóstico quirúrgico etiológico
+  
   Cirugía realizada 
-  SOFA (Sistema de evaluación de la aparición y evolución del Fallo Multiorgánico ) al ingreso a UCI :  
+  
+  SOFA (Sistema de evaluación de la aparición y evolución del Fallo Multiorgánico ) al ingreso a UCI 
+  
   APACHE II -UCI
   
   2-Desarrollar un modelo que permita analizar registros médicos y registros de salud electrónicos para identificar factores de riesgo preoperatorios asociados con la mortalidad y las complicaciones postoperatorias.
