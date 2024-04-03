@@ -64,31 +64,53 @@ Se tomo 3 posibles objetivos en los cuales nos  podríamos enfocariamos . Listam
   2-Desarrollar un modelo que permita analizar registros médicos y registros de salud electrónicos para identificar factores de riesgo preoperatorios asociados con la mortalidad y las complicaciones postoperatorias.
 
   Edad
+  
   Índice de comorbilidad de Charlson
+  
   Antecedentes quirúrgicos abdominales
+  
   Diagnóstico quirúrgico etiológico
+  
   Cirugía realizada 
+  
   Pruebas de laboratorio en el primer día postoperatorio 
+
   Fecha de alta hospitalaria
-  SOFA (Sistema de evaluación de la aparición y evolución del Fallo Multiorgánico ) al ingreso a UCI :  
-  APACHE II -UCI-
+  
+  SOFA (Sistema de evaluación de la aparición y evolución del Fallo Multiorgánico ) al ingreso a UCI 
+  
+  APACHE II -UCI
+  
   Estancia en unidad de cuidados intensivos
+  
   Condición de egreso
 
   3- Implementar sistemas de vigilancia y alerta temprana para detectar y prevenir complicaciones postoperatorias, como infecciones o trombosis venosa profunda.
   
    Edad
+   
    Índice de comorbilidad de Charlson
+   
    Antecedentes quirúrgicos abdominales
+   
    Diagnóstico quirúrgico etiológico
+   
    Diagnóstico de ingreso a unidad de cuidados intensivos
+   
    Cirugía realizada 
+   
    SOFA (Sistema de evaluación de la aparición y evolución del Fallo Multiorgánico ) al ingreso a UCI :  
+   
    APACHE II -UCI
+   
    Pruebas de laboratorio en el primer día postoperatorio 
+   
    Fecha de alta hospitalaria
+   
    Estancia hospitalaria
+   
    Estancia en unidad de cuidados intensivos
+   
    Condición de egreso
 
    
