@@ -36,4 +36,11 @@ A pesar de que la cirugía abdominal de emergencia es común en muchos países, 
 Los pacientes sometidos a cirugías abdominales de emergencia suelen ser adultos mayores con comorbilidades y un estado físico debilitado, lo que los hace más propensos a complicaciones cardiopulmonares e infecciosas. Estas complicaciones, especialmente los cuadros sépticos, son las principales causas de muerte en el período postoperatorio. Debido a estos riesgos, esta cirugía se considera de alto riesgo, con una tasa de mortalidad a corto plazo que oscila entre el 15% y el 20%, siendo solo superada por la cirugía aórtica de emergencia. Entonces resulta importante mapear y evaluar todos los factores que conllevan a esta alta mortalidad. [4]
 
 - Objetivos
+  - Desarrollar modelos de aprendizaje automático que puedan identificar patrones de síntomas que predicen la necesidad de una cirugía abdominal de emergencia.
+  - Desarrollar un modelo que permita analizar registros médicos y registros de salud electrónicos para identificar factores de riesgo preoperatorios asociados con la mortalidad y las complicaciones postoperatorias.
+  - Desarrollar modelos que puedan predecir la duración de la cirugía con base en las características del paciente y la complejidad del procedimiento. Esto puede ayudar a optimizar la programación de quirófanos y la asignación de recursos.
+  - Desarrollar herramientas de apoyo a la decisión que ayuden a los cirujanos a seleccionar la técnica quirúrgica más adecuada para cada paciente, considerando sus características y riesgos individuales.
+  - Desarrollar modelos que puedan predecir la probabilidad de que un paciente requiera cuidados intensivos después de la cirugía.
+  - Implementar sistemas de vigilancia y alerta temprana para detectar y prevenir complicaciones postoperatorias, como infecciones o trombosis venosa profunda.
+
 - Operacionalización de la variable (target)
