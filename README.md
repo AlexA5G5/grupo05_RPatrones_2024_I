@@ -55,11 +55,11 @@ Se tomo 3 posibles objetivos en los cuales nos  podríamos enfocariamos . Listam
   
  - Diagnóstico quirúrgico etiológico
   
- -Cirugía realizada 
+ - Cirugía realizada 
   
- -SOFA (Sistema de evaluación de la aparición y evolución del Fallo Multiorgánico ) al ingreso a UCI 
+ - SOFA (Sistema de evaluación de la aparición y evolución del Fallo Multiorgánico ) al ingreso a UCI 
   
- -APACHE II -UCI
+ - APACHE II -UCI
   
   2-Desarrollar un modelo que permita analizar registros médicos y registros de salud electrónicos para identificar factores de riesgo preoperatorios asociados con la mortalidad y las complicaciones postoperatorias.
 
