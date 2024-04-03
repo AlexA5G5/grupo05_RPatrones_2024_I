@@ -29,7 +29,7 @@ Soy un estudiante de ingeniería biomédica. Quisiera  especializarme en la carr
 ## Proyecto de curso
 - Descripción del proyecto
 - Problemática:
-  PROBLEMATICA
+
 La cirugía abdominal de emergencia se ha convertido en un problema crítico de salud pública, ya que es una de las principales causas de muerte en personas menores de 45 años. De hecho, la pérdida de años de vida debido a esta cirugía supera la de muchas enfermedades infecciosas, como el VIH [1]. 
 Las cirugías abdominales de emergencia se deben principalmente a enfermedades del tracto gastrointestinal. Las causas más comunes incluyen la apendicitis aguda, problemas relacionados con la vesícula biliar (como la colecistitis aguda y la colangitis aguda), y la obstrucción intestinal provocada por hernias complicadas, bridas o adherencias. [2]
 A pesar de que la cirugía abdominal de emergencia es común en muchos países, incluido el nuestro, a menudo la atención que se brinda no cumple con las expectativas del paciente, lo que puede tener un impacto negativo en su pronóstico. Por ejemplo, en un estudio realizado en un hospital en Lima, Perú, se encontró que alrededor del 50% de los pacientes no estaban satisfechos con la atención recibida durante su hospitalización por apendicitis aguda, colecistitis aguda y hernias inguinales complicadas. Además, esta insatisfacción se relacionaba con una estancia más prolongada en el hospital. [3]
