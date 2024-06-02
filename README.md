@@ -39,14 +39,9 @@ Para poder generar un modelo de IA, es necesario contar con una grande base de d
 
 - Objetivos
   - Desarrollar modelos de aprendizaje automático que puedan identificar patrones de síntomas que predicen la necesidad de una cirugía abdominal de emergencia.
-  - Desarrollar un modelo que permita analizar registros médicos y registros de salud electrónicos para identificar factores de riesgo preoperatorios asociados con la mortalidad y las complicaciones postoperatorias.
-  - Desarrollar modelos que puedan predecir la duración de la cirugía con base en las características del paciente y la complejidad del procedimiento. Esto puede ayudar a optimizar la programación de quirófanos y la asignación de recursos.
   - Desarrollar herramientas de apoyo a la decisión que ayuden a los cirujanos a seleccionar la técnica quirúrgica más adecuada para cada paciente, considerando sus características y riesgos individuales.
   - Desarrollar modelos que puedan predecir la probabilidad de que un paciente requiera cuidados intensivos después de la cirugía.
-  - Implementar sistemas de vigilancia y alerta temprana para detectar y prevenir complicaciones postoperatorias, como infecciones o trombosis venosa profunda.
-
-
- - Í
+ 
 
    
 
